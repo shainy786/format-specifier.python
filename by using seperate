@@ -1,0 +1,3 @@
+# print('s','h','n', sep='h'+'chr(0)'+'l')
+# print('s','h','n', sep='h'+ str(ord('v')))
+# print('s','h','n', sep='h'+ str(chr(120)))
